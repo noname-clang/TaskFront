@@ -1,0 +1,24 @@
+body{
+  font-family: "Poppins", sans-serif;
+  background-image: url('../images/bg-intro-desktop.png');
+  background-color: rgba(255,121,120,255) ;
+  justify-content: center;
+
+}
+.maedetodes{
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  top:200px;
+  right: 330px;
+}
+h1{
+  font-family: "Poppins", sans-serif;
+  max-width: 450px;
+}
+h4{
+  font-family: "Poppins", sans-serif;
+  font-weight: 100;
+  font-style: normal;
+  max-width: 450px;
+}
